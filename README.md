@@ -15,7 +15,7 @@ Checkout [Awesome-LNbits](https://github.com/cryptoteun/awesome-lnbits), a curra
 
 Checkout the LNbits [YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) video series.
 
-# Installation
+### Installation
 
 ```sh
 git clone https://github.com/lnbits/lnbits-infinity.git
