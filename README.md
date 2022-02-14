@@ -15,6 +15,12 @@ Checkout [Awesome-LNbits](https://github.com/cryptoteun/awesome-lnbits), a curra
 
 Checkout the LNbits [YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbSYG0ciIQUWJru1dWstPHshe) video series.
 
+### Clone repo
+
+```
+git clone https://github.com/lnbits/lnbits-legend.git
+```
+
 ### Required dependencies
 
 ```
