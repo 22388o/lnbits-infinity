@@ -25,6 +25,7 @@ sudo apt-get install lua5.3
 go install github.com/joho/godotenv/cmd/godotenv@latest
 ```
 Install [Air](https://github.com/cosmtrek/air).
+
 Open two terminals. In one, do
 
 ```sh
