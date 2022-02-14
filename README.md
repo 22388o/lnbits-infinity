@@ -18,7 +18,7 @@ Checkout the LNbits [YouTube](https://www.youtube.com/playlist?list=PLPj3KCksGbS
 ### Clone repo
 
 ```
-git clone https://github.com/lnbits/lnbits-legend.git
+git clone https://github.com/lnbits/lnbits-infinity.git
 ```
 
 ### Required dependencies
